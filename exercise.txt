@@ -1,0 +1,4 @@
+1) write a program to convert gram into kilogram and display it 
+2) write a program to convert inches into meter 
+3) write a program convert foot into meter and foot
+4) write a program convert meters into kilometer and meter 
