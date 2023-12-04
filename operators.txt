@@ -1,0 +1,9 @@
+what is operator?
+c program language, operator means symbols like + - * /. 
+there are many type of operators to name a few 
+    arthematic operator 
+        + - * / % 
+    relational operator
+        < > <= >= == !=
+        relational operator always works upon two variables and always return true or false 
+        true means 1 and false means 0 
