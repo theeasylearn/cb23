@@ -3,3 +3,9 @@
 3) write a program convert foot into meter
 4) write a program convert meters into kilometer and meter 
 5) write a program to convert given milimeter into centimeter and milimeter
+
+----------------------------------------------------------------------
+6) write a program to convert given ceilcius into farenheit.
+7) write a program to findout sell price from production price, profit rate, tax rate. 
+production price = 100, profilt rate = 10%, tax rate = 10%
+sellprice = 120 

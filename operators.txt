@@ -7,3 +7,8 @@ there are many type of operators to name a few
         < > <= >= == !=
         relational operator always works upon two variables and always return true or false 
         true means 1 and false means 0 
+    logical operators 
+        && and 
+        || OR 
+        !  NOT 
+    logical operators are used to join two or more relational expression. logical operator also return true or false. true means 1 and false means 0. it is compulsory to join two relational expression using logical operator 

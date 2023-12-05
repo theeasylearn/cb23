@@ -17,4 +17,17 @@ void main()
 
     printf("\n num1 != num2 = %d",result);
 
+    result = num1 < num2;
+    //if num1 is less then num2 then it return 1 otherwise return 0
+    printf("\n num1 < num2 = %d",result);
+
+    result = num1 > num2;
+    //if num1 is greater then num2 it return 1 otherwise return 0
+    printf("\n num1 > num2 = %d",result);
+
+    result = num1 <= num2;
+    printf("\n num1 <= num2 = %d",result);
+
+    result = num1 >= num2; 
+    printf("\n num1 >= num2 = %d",result);
 }
