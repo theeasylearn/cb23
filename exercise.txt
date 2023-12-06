@@ -9,3 +9,4 @@
 7) write a program to findout sell price from production price, profit rate, tax rate. 
 production price = 100, profilt rate = 10%, tax rate = 10%
 sellprice = 120 
+
