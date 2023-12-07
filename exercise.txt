@@ -10,3 +10,10 @@
 production price = 100, profilt rate = 10%, tax rate = 10%
 sellprice = 120 
 
+if
+----------------------------------------
+Write a programe to findout wether the user has fever or not 
+
+Write a programe to findout wether the given number is odd or not 
+
+Write a program to accept month number from user. display message "this month has 28 or 29 days" if month if february
