@@ -12,3 +12,5 @@ logical operators
     || OR 
     !  NOT 
 logical operators are used to join two or more relational expression. logical operator also return true or false. true means 1 and false means 0. it is compulsory to join two relational expression using logical operator 
+
+
