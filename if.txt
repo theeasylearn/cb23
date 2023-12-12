@@ -75,4 +75,9 @@ a==10 || b == 20 c = 30
 
 switch case
 ------------------------------
+switch(number)
+{
+     case 100:
 
+     break;
+}

@@ -11,9 +11,8 @@ void main()
      printf("Enter value of date ");
      scanf("%d", &date);
 
-     if(month > 0 && month < 13)
+     if (month > 0 && month < 13)
      {
-         
      }
      else
      {
