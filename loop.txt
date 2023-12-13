@@ -28,6 +28,7 @@ there are two types of loop
 while loop 
 in while loop, we check some condition if it is true, then while loop will execute all code between braces {} pair. while loop continue to check condition and execute code as long as condition is true. if condition is false then while loop stop. 
     syntax
+    -----------------
     while(condition) //true
     {
         line 1
