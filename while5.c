@@ -6,21 +6,19 @@ void main()
      int first = 2;
      int second = 1;
      int answer = 0;
-     int answer2 = 0; 
-     int answer3 = 0; 
+     int answer2 = 0;
+     int answer3 = 0;
      printf("%d ", first);
      printf("%d ", second);
      answer = first + second;
      printf("%d ", answer);
-     answer2 = answer + second;
-     printf("%d ",answer2);
-     answer3 = answer2 + answer;     
-     printf("%d ",answer3);
-     answer3 = answer3 + answer2;
-     printf("%d ",answer3);
-     answer3 = answer3 + answer2 ;
-
-
+     answer = answer + second;
+     printf("%d ", answer);
+     answer = answer + second + first;
+     printf("%d ", answer);
+     answer = answer + second + first + second;
+     printf("%d ", answer);
+     answer = answer 
 
      // printf("%d ", answer);
      // answer = answer + first + second;
