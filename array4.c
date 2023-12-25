@@ -8,7 +8,6 @@ void main()
      int count = 0;
      int temp = 0;
      printf("Enter your name ");
-
      for (count = 0; count < 25; count++)
      {
           scanf("%c", &name[count]);
@@ -17,7 +16,6 @@ void main()
                break;
           }
      }
-
      printf("Your name is ");
      for (temp = 0; temp < count + 1; temp++)
      {
