@@ -26,3 +26,12 @@ struct time
 
 we can create array inside structure. which is called array within structure.
 we can create array of structure. which is called array of structure.
+
+
+html , css , javascript , bootstrap , jquery 
+
+1)reactjs , nodejs - mysql,mongodb
+
+2)php - mysql 
+
+3)python ,django - mysql 
